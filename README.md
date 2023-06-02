@@ -1,6 +1,3 @@
-# Aileron Digital Twin Matlab
-Sure, here's an example of an English version of the Aileron Digital Twin MATLAB GitHub README:
-
 # Aileron Digital Twin
 
 This project aims to create a digital twin of an aircraft control surface called an aileron. A digital twin is a virtual model that utilizes mathematical and physical models to simulate the behavior of the actual aileron.
