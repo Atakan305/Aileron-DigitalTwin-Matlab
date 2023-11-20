@@ -2,6 +2,8 @@
 
 This project aims to create a digital twin of an aircraft control surface called an aileron. A digital twin is a virtual model that utilizes mathematical and physical models to simulate the behavior of the actual aileron.
 
+Indicated Aileron Model in Simscape can be downloaded from: https://it.mathworks.com/matlabcentral/fileexchange/38249-aileron-model-in-simscape  
+
 ## Installation
 
 To use this project, you will need the latest version of MATLAB and Simulink. You can start by either cloning the project to your computer or downloading it as a ZIP archive.
