@@ -35,9 +35,9 @@ This will create the aileron digital twin and start the simulation.
 The project consists of the following main files and folders:
 
 - `main.m`: The start file that initializes the project and creates the aileron digital twin.
-- `models/`: Folder containing the mathematical and physical models of the aileron.
-- `data/`: Folder containing data files related to the project.
-- `results/`: Folder where simulation results and outputs are stored.
+- `.MAT Files/`: Folder containing workspace data of selected actuators of the aileron.
+- `.fig files/`: Folder containing output graphs related to the project.
+- `figures/`: Folder where simulation results and outputs are stored.
 
 ## Contributing
 
